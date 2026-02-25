@@ -1,0 +1,20 @@
+LoanManagementSystem-D365
+│
+├── 📁 docs
+│   ├── Architecture-Diagram.png
+│   ├── ERD.png
+│   ├── Plugin-Pipeline-Flow.png
+│
+├── 📁 src
+│   └── LoanManagement.Plugins
+│       ├── LoanPreCreateValidation.cs
+│       ├── LoanEmiCalculation.cs
+│       ├── LoanApprovalCreation.cs
+│       ├── AssemblyInfo.cs
+│
+├── 📁 solution
+│   └── LoanManagementSolution.zip   (Exported unmanaged solution)
+│
+├── README.md
+├── LICENSE
+└── .gitignore
