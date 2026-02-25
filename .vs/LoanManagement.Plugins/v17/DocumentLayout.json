@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skfai\\source\\repos\\LoanManagement.Plugins\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C524D0F-5CEA-4541-ADAA-6007813356BD}|LoanManagement.Plugins\\LoanManagement.Plugins.csproj|c:\\users\\skfai\\source\\repos\\loanmanagement.plugins\\loanmanagement.plugins\\loanapprovalcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C524D0F-5CEA-4541-ADAA-6007813356BD}|LoanManagement.Plugins\\LoanManagement.Plugins.csproj|solutionrelative:loanmanagement.plugins\\loanapprovalcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C524D0F-5CEA-4541-ADAA-6007813356BD}|LoanManagement.Plugins\\LoanManagement.Plugins.csproj|c:\\users\\skfai\\source\\repos\\loanmanagement.plugins\\loanmanagement.plugins\\loanemicalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C524D0F-5CEA-4541-ADAA-6007813356BD}|LoanManagement.Plugins\\LoanManagement.Plugins.csproj|solutionrelative:loanmanagement.plugins\\loanemicalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C524D0F-5CEA-4541-ADAA-6007813356BD}|LoanManagement.Plugins\\LoanManagement.Plugins.csproj|c:\\users\\skfai\\source\\repos\\loanmanagement.plugins\\loanmanagement.plugins\\loanprecreatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C524D0F-5CEA-4541-ADAA-6007813356BD}|LoanManagement.Plugins\\LoanManagement.Plugins.csproj|solutionrelative:loanmanagement.plugins\\loanprecreatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoanApprovalCreation.cs",
+              "DocumentMoniker": "C:\\Users\\skfai\\source\\repos\\LoanManagement.Plugins\\LoanManagement.Plugins\\LoanApprovalCreation.cs",
+              "RelativeDocumentMoniker": "LoanManagement.Plugins\\LoanApprovalCreation.cs",
+              "ToolTip": "C:\\Users\\skfai\\source\\repos\\LoanManagement.Plugins\\LoanManagement.Plugins\\LoanApprovalCreation.cs",
+              "RelativeToolTip": "LoanManagement.Plugins\\LoanApprovalCreation.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwDgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T10:43:38.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoanEmiCalculation.cs",
+              "DocumentMoniker": "C:\\Users\\skfai\\source\\repos\\LoanManagement.Plugins\\LoanManagement.Plugins\\LoanEmiCalculation.cs",
+              "RelativeDocumentMoniker": "LoanManagement.Plugins\\LoanEmiCalculation.cs",
+              "ToolTip": "C:\\Users\\skfai\\source\\repos\\LoanManagement.Plugins\\LoanManagement.Plugins\\LoanEmiCalculation.cs",
+              "RelativeToolTip": "LoanManagement.Plugins\\LoanEmiCalculation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T07:38:05.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoanPreCreateValidation.cs",
+              "DocumentMoniker": "C:\\Users\\skfai\\source\\repos\\LoanManagement.Plugins\\LoanManagement.Plugins\\LoanPreCreateValidation.cs",
+              "RelativeDocumentMoniker": "LoanManagement.Plugins\\LoanPreCreateValidation.cs",
+              "ToolTip": "C:\\Users\\skfai\\source\\repos\\LoanManagement.Plugins\\LoanManagement.Plugins\\LoanPreCreateValidation.cs",
+              "RelativeToolTip": "LoanManagement.Plugins\\LoanPreCreateValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T12:09:17.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
