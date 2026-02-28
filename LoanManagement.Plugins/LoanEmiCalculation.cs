@@ -14,7 +14,7 @@ namespace LoanManagement.Plugins
 
             IOrganizationService service = factory.CreateOrganizationService(context.UserId);
 
-            if (context.Depth > 1) return; // prevent infinite loop
+            if (context.Depth > 3) return; // prevent infinite loop
 
             if (context.InputParameters.Contains("Target") &&
                 context.InputParameters["Target"] is Entity)
